@@ -206,7 +206,7 @@ export default function Projects() {
                 type="Python | Data Analysis & Machine Learning"
                 title="Movie Recomandation"
                 img={proj2}
-                link="/"
+                link="https://github.com/Francys04/Movie_Reco_DS_Py"
                 github="https://github.com/Francys04/Movie_Reco_DS_Py"
               />
             </div>
@@ -215,7 +215,7 @@ export default function Projects() {
                 type="Python | Data Analysis & Machine Learning"
                 title="EDA - Banking Analysis"
                 img={proj4}
-                link="/"
+                link="https://github.com/Francys04/EDA_Banking_Data_DS_Py"
                 github="https://github.com/Francys04/EDA_Banking_Data_DS_Py"
               />
             </div>
@@ -243,7 +243,7 @@ export default function Projects() {
                 type="Python | Data Since & Machine Learning"
                 img={proj6}
                 title="Gold price prediction"
-                link="/"
+                link="https://github.com/Francys04/Gold_price_DS_Py"
                 github="https://github.com/Francys04/Gold_price_DS_Py"
               />
             </div>
@@ -262,7 +262,7 @@ export default function Projects() {
                 type="Python | RestAPI"
                 title="Wikipedia API using FastAPI"
                 img={proj8}
-                link="/"
+                link="https://github.com/Francys04/AWS_Micro_Fast_API_Py"
                 github="https://github.com/Francys04/AWS_Micro_Fast_API_Py"
               />
             </div>
@@ -271,7 +271,7 @@ export default function Projects() {
                 type="Python | FastAPI"
                 title="Fast API Web Scraper"
                 img={proj9}
-                link="/"
+                link="https://github.com/Francys04/Fast_API_Web_Scrap_PY"
                 github="https://github.com/Francys04/Fast_API_Web_Scrap_PY"
               />
             </div>
@@ -310,7 +310,7 @@ export default function Projects() {
                 type="PowerShell | Services"
                 title="Service Checker and Email Alert Script"
                 img={proj13}
-                link="/"
+                link="https://github.com/Francys04/Service_checker_PowerShell"
                 github="https://github.com/Francys04/Service_checker_PowerShell"
               />
             </div>
@@ -319,7 +319,7 @@ export default function Projects() {
                 type="PowerShell | Services"
                 title="PowerShell Active Directory User Management-Creation Script"
                 img={proj14}
-                link="/"
+                link="https://github.com/Francys04/Fast_API_Web_Scrap_PY"
                 github="https://github.com/Francys04/Fast_API_Web_Scrap_PY"
               />
             </div>
