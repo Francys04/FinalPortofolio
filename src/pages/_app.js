@@ -7,7 +7,7 @@ import { Montserrat } from "next/font/google";
 import Head from "next/head";
 import { useRouter } from "next/router";
 
-// If loading a variable font, you don't need to specify the font weight
+// If loading a variable font, you don't need to specify the font weigh
 const montserrat = Montserrat({ subsets: ["latin"], variable: "--font-mont" });
 
 export default function App({ Component, pageProps }) {
